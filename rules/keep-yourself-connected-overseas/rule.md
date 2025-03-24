@@ -1,22 +1,23 @@
 ---
-seoDescription: Staying connected while traveling overseas without breaking the bank, explore affordable options like dual-SIM phones, portable routers, and prepaid travel SIMs.
 type: rule
 title: Do you keep yourself connected while travelling overseas?
+seoDescription: Staying connected while traveling overseas without breaking the
+  bank, explore affordable options like dual-SIM phones, portable routers, and
+  prepaid travel SIMs.
 uri: keep-yourself-connected-overseas
 authors:
   - title: Jimmy Chen
     url: https://www.ssw.com.au/people/jimmy-chen
-related:
+related: null
 redirects:
   - do-you-keep-yourself-connected-when-travelling-overseas
   - do-you-keep-yourself-connected-overseas
 created: 2024-01-19T00:00:00.000Z
 guid: 4112a1e5-50d8-449b-9cc8-9c42d3c1e814
 ---
-
 Staying connected when traveling internationally is super important, especially for business trips. While grabbing a roaming package from your mobile provider is a popular choice, it can sometimes lead to a shockingly high bill when you get back home.
 
-The question arises: _How can one stay connected without the risk of huge bills?_
+The question arises: *How can one stay connected without the risk of huge bills?*
 
 <!--endintro-->
 
@@ -48,8 +49,9 @@ Take the popular iPhone as an example, which offers multiple eSIM and a physical
 
 ✅ Disposal of a used e-SIM can be done easily with a few clicks
 
-Note: Sometimes it is better to use a eSIM travel app e.g. <https://roamless.com/>
-You can buy data and use it in 165 countries without changing SIM cards.
+Note: Sometimes it is better to use a eSIM travel app e.g. <https://roamless.com/> or <https://mobimatter.com/>
+
+You can buy eSIM and add to your mobile directly which is available in most countries.
 
 ### Option B. Portable 4G Router
 
@@ -71,7 +73,7 @@ Rely on your current roaming service, for example, Telstra charges $10 per day f
 
 ❌ Expensive and occasionally poor internet connectivity
 
----
+- - -
 
 ## Summary
 
