@@ -49,9 +49,9 @@ Take the popular iPhone as an example, which offers multiple eSIM and a physical
 
 ✅ Disposal of a used e-SIM can be done easily with a few clicks
 
-Note: Sometimes it is better to use a eSIM travel app e.g. <https://roamless.com/> or <https://mobimatter.com/>
+Note: Sometimes it is better to use an eSIM travel app e.g. <https://roamless.com/> or <https://mobimatter.com/>
 
-You can buy eSIM and add to your mobile directly which is available in most countries.
+You can buy eSIM and add it to your mobile directly which is available in most countries.
 
 ### Option B. Portable 4G Router
 
